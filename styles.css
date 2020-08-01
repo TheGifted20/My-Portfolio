@@ -1,0 +1,19 @@
+<head>
+  <title>Portfolio landing</title>
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  </head>
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  h1 {
+    color: blue;
+    font-style: italix;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
